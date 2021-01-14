@@ -1,4 +1,4 @@
-### Hi there, I'm annie 👋
+### Hi there, I'm annie <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **a-heo/a-heo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
