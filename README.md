@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📍 Portland, OR
 - 😄 Pronouns: She | Her
 - 🌱 Currently working on [B-inder](https://github.com/a-heo/b-inder), using React Hooks, Express.js, Postgres, and Styled Components
-- ⚡ Fun fact: I make [🏺s](https://www.instagram.com/heomakes/) during my free time
+- ⚡ Fun fact: I make [🏺](https://www.instagram.com/heomakes/) during my free time
 
 <a href="https://www.linkedin.com/in/annie-heo/" target="_blank">
   <img src="https://img.shields.io/badge/-Annie%20Heo-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
