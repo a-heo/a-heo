@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 A software engineer looking for opportunities to grow
+- 🔭 A software engineer looking for opportunities to grow and improve as a developer
+- 📍 Portland, OR
+- 🌱 Currently working on [B-inder](https://github.com/a-heo/binder), using React Hooks, Express.js, Postgres, Styled Components
 - 😄 Pronouns:She/Her
+- 
 - ⚡ Fun fact: I make ceramics during my free time
 
 <a href="https://www.linkedin.com/in/annie-heo/" target="_blank">
