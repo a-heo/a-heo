@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 A software engineer looking for opportunities to grow and improve as a developer
 - 📍 Portland, OR
 - 😄 Pronouns: She | Her
-- 🌱 Currently working on [B-inder](https://github.com/a-heo/b-inder), using React Hooks, Express.js, Postgres, and Styled Components
+- 🌱 Currently working on [Book Swipe](https://github.com/a-heo/swipe-a-book), using React Native and stylesheet
 - ⚡ Fun fact: I make [ceramics](https://www.instagram.com/heomakes/) during my free time
 
 <a href="https://www.linkedin.com/in/annie-heo/" target="_blank">
