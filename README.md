@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-- 🔭 A software engineer looking for opportunities to grow and improve as a developer
 - 📍 Portland, OR
 - 😄 Pronouns: She | Her
-- 🌱 Currently working on [Stars Align](https://github.com/a-heo/stars-align), using React Hooks and Styled Components
 - ⚡ Fun fact: I make [ceramics](https://www.instagram.com/heomakes/) during my free time
 
 <a href="https://www.linkedin.com/in/annie-heo/" target="_blank">
