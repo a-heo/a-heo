@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 --> 
 - 📍 Portland, OR
 - 😄 Pronouns: She | Her
-- ⚡ Fun fact: I make [ceramics](https://www.instagram.com/heomakes/) during my free time
 
 <a href="https://www.linkedin.com/in/annie-heo/" target="_blank">
   <img src="https://img.shields.io/badge/-Annie%20Heo-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
