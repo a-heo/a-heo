@@ -21,8 +21,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Annie%20Heo-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 
-[![a-heo's github stats](https://github-readme-stats.vercel.app/api?username=a-heo&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
- 
  
  
  
